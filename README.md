@@ -1,4 +1,3 @@
-# Chatbot-EnigmaD
 # Project Readme
 
 Welcome to the Chatbot project, a full-stack conversational AI system that leverages the power of GPT-3.5 and DALL-E to provide dynamic and engaging interactions through natural language. This project showcases the integration of cutting-edge technologies including Python, AWS, HTML, FastAPI, OpenAI, and Jinja2 to create a seamless and robust conversational experience.
