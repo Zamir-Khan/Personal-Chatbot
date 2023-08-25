@@ -1,3 +1,5 @@
+# Developed by Zamir Khan
+
 import openai
 from fastapi import FastAPI, Form, Request
 from typing import Annotated
