@@ -50,7 +50,7 @@ The Chatbot project is designed for deployment on AWS Lambda using the Serverles
 
 ## Contributions and Issues
 
-Contributions to the project are welcome! If you encounter any issues or have suggestions for improvements, please open an issue in the [GitHub repository](https://github.com/your-username/chatbot-project/issues).
+Contributions to the project are welcome! If you encounter any issues or have suggestions for improvements, please open an issue in the [GitHub repository](https://github.com/Zamir-Khan/Personal-Chatbot/issues).
 
 ---
 
