@@ -38,15 +38,7 @@ The project's directory structure is organized as follows:
 
 ## Deployment
 
-The Chatbot project is designed for deployment on AWS Lambda using the Serverless framework. Follow these steps to deploy the project:
-
-1. Install Serverless: `npm install -g serverless`
-
-2. Configure AWS credentials: Set up your AWS access and secret keys.
-
-3. Update AWS settings: Modify the `serverless.yml` file with your specific settings.
-
-4. Deploy: Run `serverless deploy` to deploy the application to AWS Lambda.
+The Chatbot project is deployed on AWS Lambda using the Serverless framework. Send a query on khanzamirhossain@yahoo.com for demo
 
 ## Contributions and Issues
 
