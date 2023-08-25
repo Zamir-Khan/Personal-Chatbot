@@ -54,4 +54,4 @@ Contributions to the project are welcome! If you encounter any issues or have su
 
 ---
 
-Thank you for your interest in the Chatbot project. We hope this conversational AI system demonstrates the potential of integrating various technologies to create a rich and interactive user experience.
+Thank you for your interest in the Chatbot project. I hope this conversational AI system demonstrates the potential of integrating various technologies to create a rich and interactive user experience.
